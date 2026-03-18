@@ -161,6 +161,92 @@
             </div>
         </div>
     </nav>
+<header id="inicio" class="hero-wrap">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row no-gutters slider-text align-items-center">
+                <div class="col-md-10 col-lg-7" data-aos="fade-right">
+                    <div class="text">
+                        <span class="subheading">Estudio Jurídico Integral</span>
+                        <h1 class="display-4 fw-bold">Defendemos sus derechos con <span class="text-gold">rigor técnico.</span></h1>
+                        <p class="lead mt-3 mb-5">Asesoramiento legal especializado en Accidentología Vial, Derecho de Familia, Laboral y Sucesiones.</p>
+                        <div class="d-flex gap-3 flex-wrap">
+                            <a href="https://wa.me/541131976852" class="btn btn-gold btn-lg px-4 py-3">Consulta Urgente</a>
+                            <a href="#servicios" class="btn btn-outline-light btn-lg px-4 py-3">Nuestras Áreas</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="servicios" class="py-5 bg-light">
+        <div class="container py-5">
+            <div class="row justify-content-center mb-5">
+                <div class="col-md-8 text-center" data-aos="fade-up">
+                    <h2 class="playfair display-5 fw-bold">Especialidades del Estudio</h2>
+                    <div class="divider mx-auto"></div>
+                    <p class="text-muted mt-3">Brindamos soluciones jurídicas estratégicas adaptadas a cada necesidad.</p>
+                </div>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="practice-card">
+                        <div class="practice-icon"><i class="fas fa-users"></i></div>
+                        <h3>Derecho de Familia</h3>
+                        <p>Divorcios, alimentos, régimen de comunicación y responsabilidad parental.</p>
+                        <a href="areas/familia.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="practice-card featured">
+                        <div class="practice-icon text-gold"><i class="fas fa-car-crash"></i></div>
+                        <h3>Accidentología Vial</h3>
+                        <p>Análisis técnico-pericial de siniestros, daños y perjuicios. Defensa integral.</p>
+                        <a href="areas/transito.html" class="read-more text-white">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="practice-card">
+                        <div class="practice-icon"><i class="fas fa-briefcase"></i></div>
+                        <h3>Derecho Laboral</h3>
+                        <p>Despidos, trabajo no registrado, accidentes laborales y reclamos ante la ART.</p>
+                        <a href="areas/laboral.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
+                    <div class="practice-card">
+                        <div class="practice-icon"><i class="fas fa-file-signature"></i></div>
+                        <h3>Sucesiones</h3>
+                        <p>Tramitación de declaratorias de herederos, inscripciones y partición de bienes.</p>
+                        <a href="areas/sucesiones.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
+                    <div class="practice-card">
+                        <div class="practice-icon"><i class="fas fa-handshake"></i></div>
+                        <h3>Contratos</h3>
+                        <p>Redacción y revisión de contratos de locación, compraventa y convenios.</p>
+                        <a href="areas/contratos.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
+                    <div class="practice-card bg-gold-soft">
+                        <div class="practice-icon"><i class="fas fa-calculator"></i></div>
+                        <h3>Herramientas Online</h3>
+                        <p>Acceda a nuestras calculadoras fiscales y simuladores de cuota alimentaria.</p>
+                        <a href="calculadora-fiscal.html" class="read-more text-dark fw-bold">Usar ahora <i class="fas fa-chevron-right ms-1"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <header class="hero-section d-flex align-items-center">
         <div class="container text-center">
             <h1 class="display-4">Abogado especialista en Accidentología Vial</h1>
