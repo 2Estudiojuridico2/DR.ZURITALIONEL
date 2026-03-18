@@ -1,371 +1,85 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-P5T92VD5');</script>
-    
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17555284710"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);} 
-        gtag('js', new Date());
-        gtag('config', 'AW-17555284710');
-    </script>
-    
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-    <title>Dr. Lionel Zurita | Abogado y Accidentólogo Vial | Familia, Laboral, Sucesiones y Accidentes de Tránsito</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Lionel Zurita | Abogado y Accidentólogo</title>
     
-    <meta name="description" content="Estudio Jurídico del Dr. Lionel Zurita: Abogado y Accidentólogo Vial. Especialistas en Derecho de Familia, Laboral, Sucesorio y reclamos por Accidentes de Tránsito.">
-    <meta name="keywords" content="abogado, estudio jurídico, derecho, Lionel Zurita, familia, laboral, sucesiones, contratos, accidentes de tránsito, accidentología vial, peritaje, reclamos viales">
-    <meta name="author" content="Dr. Lionel Nicolás Zurita">
-    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-    <link rel="canonical" href="https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html" />
-    
-    <meta property="og:locale" content="es_AR">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Dr. Lionel Zurita | Abogado y Accidentólogo Vial | Estudio Jurídico Integral">
-    <meta property="og:description" content="Asesoramiento legal profesional y especializado en Accidentología Vial, Derecho de Familia, Laboral y Sucesorio. Comprometidos con la ética y la defensa de los derechos.">
-    <meta property="og:url" content="https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html">
-    <meta property="og:site_name" content="Estudio Jurídico Dr. Lionel Zurita">
-    <meta property="og:image" content="https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/images/og-default.jpg"> 
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Dr. Lionel Zurita | Abogado y Accidentólogo Vial | Estudio Jurídico Integral">
-    <meta name="twitter:image" content="https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/images/og-default.jpg"> 
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P5T92VD5');</script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17555284710"></script>
+    <script>window.dataLayer=window.dataLayer||[]; function gtag(){dataLayer.push(arguments);} gtag('js',new Date()); gtag('config','AW-17555284710');</script>
 
-    <link rel="icon" href="images/justicia.png" type="image/png"> 
-    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" href="css/estilos.css">
-    
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "WebPage",
-          "@id": "https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html#webpage",
-          "url": "https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html",
-          "name": "Dr. Lionel Zurita | Abogado y Accidentólogo Vial | Familia, Laboral, Sucesiones y Accidentes de Tránsito",
-          "isPartOf": { "@id": "https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html#website" },
-          "inLanguage": "es"
-        },
-        {
-          "@type": "WebSite",
-          "@id": "https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html#website",
-          "url": "https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html",
-          "name": "Estudio Jurídico Dr. Lionel Zurita",
-          "description": "Estudio Jurídico del Dr. Lionel Zurita. Abogado y Accidentólogo Vial."
-        },
-        {
-          "@type": ["LegalService", "Attorney"],
-          "name": "Estudio Jurídico Dr. Lionel Zurita - Abogado y Accidentólogo Vial",
-          "description": "Asesoramiento legal especializado en Accidentología Vial, Familia, Laboral y Sucesorio.",
-          "url": "https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/index.html",
-          "image": "https://2estudiojuridico2.github.io/Dr.-Lionel-Zurita/images/og-default.jpg",
-          "telephone": "+54 11 3197 6852",
-          "email": "Dr.Zuritalionel@gmail.com",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Buenos Aires",
-            "addressRegion": "Buenos Aires",
-            "addressCountry": "AR"
-          },
-          "founder": {
-            "@type": "Person",
-            "name": "Lionel Nicolás Zurita"
-          },
-          "openingHours": "Mo-Fr 09:00-18:00"
+    <style>
+        :root { --azul: #0B192C; --dorado: #C5A059; }
+        body { font-family: 'Roboto', sans-serif; margin: 0; padding: 0; }
+        .top-bar { background: var(--azul); color: white; padding: 8px 0; font-size: 13px; }
+        .navbar { background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .hero { 
+            background: linear-gradient(rgba(11,25,44,0.8), rgba(11,25,44,0.8)), url('https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=2000');
+            height: 70vh; background-size: cover; display: flex; align-items: center; color: white;
         }
-      ]
-    }
-    </script>
+        .btn-gold { background: var(--dorado); color: white; border: none; padding: 12px 25px; font-weight: bold; }
+        .card-servicio { background: white; padding: 30px; border-radius: 5px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); border-top: 4px solid var(--dorado); height: 100%; transition: 0.3s; }
+        .card-servicio:hover { transform: translateY(-5px); }
+        .icon { font-size: 40px; color: var(--azul); margin-bottom: 20px; }
+    </style>
 </head>
-
 <body>
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5T92VD5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-    <div class="top-bar d-none d-lg-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-12 d-flex align-items-center">
-                    <span class="top-bar-item"><i class="fas fa-clock me-2"></i>Lunes a Viernes 09:00 a 18:00 hs</span>
-                    <span class="top-bar-separator">|</span>
-                    <span class="top-bar-item"><i class="fas fa-envelope me-2"></i><a href="mailto:Dr.Zuritalionel@gmail.com">Dr.Zuritalionel@gmail.com</a></span>
-                    <span class="top-bar-separator">|</span>
-                    <span class="top-bar-item"><i class="fas fa-phone-alt me-2"></i>11 3772-2140</span>
-                </div>
-                <div class="col-md-4 col-12 text-end d-flex align-items-center justify-content-end">
-                    <a href="https://wa.me/5491131976852" target="_blank" class="top-bar-social"><i class="fab fa-whatsapp"></i></a>
-                    <a href="https://t.me/drzuritalionel" target="_blank" class="top-bar-social"><i class="fab fa-telegram-plane"></i></a>
-                </div>
-            </div>
+    <div class="top-bar d-none d-md-block">
+        <div class="container d-flex justify-content-between">
+            <span><i class="fas fa-envelope me-2"></i> Dr.Zuritalionel@gmail.com</span>
+            <span><i class="fas fa-phone me-2"></i> 11 3772-2140</span>
         </div>
     </div>
 
-    <nav class="navbar navbar-expand-lg sticky-top custom-navbar" aria-label="Barra de navegación principal">
+    <nav class="navbar navbar-expand-lg sticky-top">
         <div class="container">
-            <a class="navbar-brand nav-brand" href="#inicio">Dr. Lionel Zurita</a>
-            
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Mostrar menú">
-                <i class="fas fa-bars"></i>
-            </button>
-            
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto align-items-lg-center">
-                    <li class="nav-item"><a class="nav-link active" href="#inicio">Inicio</a></li>
-                    
-                    <li class="nav-item dropdown"> 
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownAreas" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Áreas de Práctica
-                        </a>
-                        <ul class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownAreas">
-                            <li><a class="dropdown-item" href="areas/familia.html"><i class="fas fa-users me-2 text-gold"></i>Derecho de Familia</a></li>
-                            <li><a class="dropdown-item" href="areas/laboral.html"><i class="fas fa-briefcase me-2 text-gold"></i>Derecho Laboral</a></li>
-                            <li><a class="dropdown-item" href="areas/sucesiones.html"><i class="fas fa-file-signature me-2 text-gold"></i>Derecho Sucesorio</a></li>
-                            <li><a class="dropdown-item" href="areas/contratos.html"><i class="fas fa-handshake me-2 text-gold"></i>Contratos</a></li>
-                            <li><a class="dropdown-item fw-bold" href="areas/transito.html"><i class="fas fa-car-crash me-2 text-gold"></i>Accidentología Vial</a></li>
-                        </ul>
-                    </li>
-
-                    <li class="nav-item dropdown"> 
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownHerramientas" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Servicios y Calculadoras
-                        </a>
-                        <ul class="dropdown-menu shadow-sm" aria-labelledby="navbarDropdownHerramientas">
-                            <li><a class="dropdown-item" href="calculadora-fiscal.html">Calculadora Fiscal & Honorarios</a></li>
-                            <li><a class="dropdown-item" href="areas/calculadora-cuota.html">Simulador Cuota Alimentaria</a></li> 
-                        </ul>
-                    </li>
-
-                    <li class="nav-item"><a class="nav-link" href="#sobre-nosotros">El Estudio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
-                    <li class="nav-item d-none d-lg-block ms-3">
-                        <a class="btn btn-gold btn-turno-nav" href="agendar-turno.html">Agendar Turno</a>
-                    </li>
-                    <li class="nav-item d-lg-none mt-2">
-                        <a class="btn btn-gold w-100" href="agendar-turno.html">Agendar Turno</a>
-                    </li>
-                </ul>
+            <a class="navbar-brand fw-bold" style="color:var(--azul)" href="#">DR. LIONEL ZURITA</a>
+            <div class="ms-auto">
+                <a href="https://wa.me/541131976852" class="btn btn-gold">CONSULTA WHATSAPP</a>
             </div>
         </div>
     </nav>
-<header id="inicio" class="hero-wrap">
-        <div class="overlay"></div>
+
+    <header class="hero">
         <div class="container">
-            <div class="row no-gutters slider-text align-items-center">
-                <div class="col-md-10 col-lg-7" data-aos="fade-right">
-                    <div class="text">
-                        <span class="subheading">Estudio Jurídico Integral</span>
-                        <h1 class="display-4 fw-bold">Defendemos sus derechos con <span class="text-gold">rigor técnico.</span></h1>
-                        <p class="lead mt-3 mb-5">Asesoramiento legal especializado en Accidentología Vial, Derecho de Familia, Laboral y Sucesiones.</p>
-                        <div class="d-flex gap-3 flex-wrap">
-                            <a href="https://wa.me/541131976852" class="btn btn-gold btn-lg px-4 py-3">Consulta Urgente</a>
-                            <a href="#servicios" class="btn btn-outline-light btn-lg px-4 py-3">Nuestras Áreas</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <h1 style="font-family:'Playfair Display'">Defensa Legal con <br><span style="color:var(--dorado)">Excelencia Técnica</span></h1>
+            <p class="lead">Abogado y Perito Accidentólogo Vial.</p>
         </div>
     </header>
 
-    <section id="servicios" class="py-5 bg-light">
-        <div class="container py-5">
-            <div class="row justify-content-center mb-5">
-                <div class="col-md-8 text-center" data-aos="fade-up">
-                    <h2 class="playfair display-5 fw-bold">Especialidades del Estudio</h2>
-                    <div class="divider mx-auto"></div>
-                    <p class="text-muted mt-3">Brindamos soluciones jurídicas estratégicas adaptadas a cada necesidad.</p>
-                </div>
-            </div>
-
+    <section class="py-5 bg-light">
+        <div class="container">
             <div class="row g-4">
-                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="practice-card">
-                        <div class="practice-icon"><i class="fas fa-users"></i></div>
-                        <h3>Derecho de Familia</h3>
-                        <p>Divorcios, alimentos, régimen de comunicación y responsabilidad parental.</p>
-                        <a href="areas/familia.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
+                <div class="col-md-4">
+                    <div class="card-servicio">
+                        <div class="icon"><i class="fas fa-car-crash"></i></div>
+                        <h4>Accidentología</h4>
+                        <p>Reclamos por siniestros viales con análisis pericial propio.</p>
                     </div>
                 </div>
-
-                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="practice-card featured">
-                        <div class="practice-icon text-gold"><i class="fas fa-car-crash"></i></div>
-                        <h3>Accidentología Vial</h3>
-                        <p>Análisis técnico-pericial de siniestros, daños y perjuicios. Defensa integral.</p>
-                        <a href="areas/transito.html" class="read-more text-white">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
+                <div class="col-md-4">
+                    <div class="card-servicio">
+                        <div class="icon"><i class="fas fa-users"></i></div>
+                        <h4>Familia</h4>
+                        <p>Divorcios, alimentos y responsabilidad parental.</p>
                     </div>
                 </div>
-
-                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
-                    <div class="practice-card">
-                        <div class="practice-icon"><i class="fas fa-briefcase"></i></div>
-                        <h3>Derecho Laboral</h3>
-                        <p>Despidos, trabajo no registrado, accidentes laborales y reclamos ante la ART.</p>
-                        <a href="areas/laboral.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-                    <div class="practice-card">
-                        <div class="practice-icon"><i class="fas fa-file-signature"></i></div>
-                        <h3>Sucesiones</h3>
-                        <p>Tramitación de declaratorias de herederos, inscripciones y partición de bienes.</p>
-                        <a href="areas/sucesiones.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
-                    <div class="practice-card">
-                        <div class="practice-icon"><i class="fas fa-handshake"></i></div>
-                        <h3>Contratos</h3>
-                        <p>Redacción y revisión de contratos de locación, compraventa y convenios.</p>
-                        <a href="areas/contratos.html" class="read-more">Ver más <i class="fas fa-chevron-right ms-1"></i></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
-                    <div class="practice-card bg-gold-soft">
-                        <div class="practice-icon"><i class="fas fa-calculator"></i></div>
-                        <h3>Herramientas Online</h3>
-                        <p>Acceda a nuestras calculadoras fiscales y simuladores de cuota alimentaria.</p>
-                        <a href="calculadora-fiscal.html" class="read-more text-dark fw-bold">Usar ahora <i class="fas fa-chevron-right ms-1"></i></a>
+                <div class="col-md-4">
+                    <div class="card-servicio">
+                        <div class="icon"><i class="fas fa-gavel"></i></div>
+                        <h4>Laboral</h4>
+                        <p>Despidos, ART y accidentes de trabajo.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <header class="hero-section d-flex align-items-center">
-        <div class="container text-center">
-            <h1 class="display-4">Abogado especialista en Accidentología Vial</h1>
-            <p class="lead">Defensa legal estratégica en accidentes de tránsito, derecho laboral, familia y sucesiones.</p>
-            <div class="mt-4">
-                <a href="https://wa.me/5491131976852" class="btn btn-success btn-lg me-3" target="_blank" rel="noopener"
-                   onclick="gtag('event','conversion',{'send_to':'AW-17555284710/xbZyCOG1gJobEObFgbNB'});">
-                    <i class="fab fa-whatsapp"></i> Consulta por WhatsApp
-                </a>
-                <a href="https://t.me/drzuritalionel" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
-                    <i class="fab fa-telegram"></i> Consulta por Telegram
-                </a>
-            </div>
-        </div>
-    </header>
-
-    <section id="areas" class="py-5 bg-light">
-        <div class="container">
-            <div class="text-center mb-5">
-                <h2>Áreas de Práctica</h2>
-                <p class="text-muted">Asesoramiento jurídico integral adaptado a cada caso.</p>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-3">
-                    <div class="card h-100 text-center">
-                        <div class="card-body">
-                            <i class="fas fa-car-crash fa-2x mb-3"></i>
-                            <h4>Accidentología Vial</h4>
-                            <p>Intervención profesional en siniestros de tránsito, análisis técnico del hecho y reclamos por daños y perjuicios.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100 text-center">
-                        <div class="card-body">
-                            <i class="fas fa-users fa-2x mb-3"></i>
-                            <h4>Derecho de Familia</h4>
-                            <p>Asistencia legal en divorcios, régimen de alimentos, responsabilidad parental y conflictos familiares.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100 text-center">
-                        <div class="card-body">
-                            <i class="fas fa-briefcase fa-2x mb-3"></i>
-                            <h4>Derecho Laboral</h4>
-                            <p>Defensa de trabajadores frente a despidos injustificados, trabajo no registrado e indemnizaciones.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="card h-100 text-center">
-                        <div class="card-body">
-                            <i class="fas fa-file-contract fa-2x mb-3"></i>
-                            <h4>Sucesiones</h4>
-                            <p>Tramitación de declaratoria de herederos, partición de herencia y planificación patrimonial.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="py-5">
-        <div class="container">
-            <h2 class="text-center mb-5">Accidentología Vial y Responsabilidad Civil</h2>
-            <p>Nuestro estudio jurídico interviene en conflictos derivados de accidentes de tránsito y reclamos por responsabilidad civil. El análisis técnico del siniestro permite determinar las causas del hecho y establecer las responsabilidades correspondientes.</p>
-            <p>El trabajo incluye evaluación de daños materiales, lesiones personales, intervención frente a compañías aseguradoras y tramitación judicial del reclamo indemnizatorio.</p>
-            <p>La combinación entre análisis jurídico y pericial permite abordar cada caso desde una perspectiva integral, garantizando una estrategia procesal sólida orientada a la reparación del daño sufrido.</p>
-        </div>
-    </section>
-
-    <section id="estudio" class="py-5 bg-light">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <img src="images/abogado-confianza.jpg" class="img-fluid rounded" alt="Imagen del estudio jurídico">
-                </div>
-                <div class="col-lg-6">
-                    <h2>Estudio Jurídico Dr Lionel Zurita</h2>
-                    <p class="lead">Compromiso, ética profesional y estrategia jurídica.</p>
-                    <p>El estudio brinda asesoramiento legal integral en la Provincia de Buenos Aires, con especial énfasis en accidentología vial. La experiencia profesional permite abordar cada caso con rigurosidad técnica y una estrategia jurídica adecuada a las circunstancias particulares.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section id="contacto" class="py-5">
-        <div class="container text-center">
-            <h2>Contacto Directo</h2>
-            <p class="lead">Consultas inmediatas por WhatsApp o Telegram</p>
-            <a href="https://wa.me/5491131976852" class="btn btn-success btn-lg me-3" target="_blank" rel="noopener"
-               onclick="gtag('event','conversion',{'send_to':'AW-17555284710/xbZyCOG1gJobEObFgbNB'});">
-                WhatsApp
-            </a>
-            <a href="https://t.me/drzuritalionel" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
-                Telegram
-            </a>
-        </div>
-    </section>
-
-    <footer class="py-4 text-center bg-dark text-light">
-        <p>© 2026 Estudio Jurídico Dr Lionel Zurita</p>
-    </footer>
-
-    <a href="https://wa.me/5491131976852" class="whatsapp-float" target="_blank" rel="noopener"
-       onclick="gtag('event','conversion',{'send_to':'AW-17555284710/xbZyCOG1gJobEObFgbNB'});">
-        <i class="fab fa-whatsapp"></i>
-    </a>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script>
-    AOS.init({
-        duration:700,
-        once:true,
-        disable:'mobile'
-    });
-    </script>
-    <script src="js/main.js"></script>
 </body>
 </html>
