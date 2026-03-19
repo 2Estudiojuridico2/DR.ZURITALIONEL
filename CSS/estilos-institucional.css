@@ -1,0 +1,132 @@
+/* ============================================================
+   ESTILOS INSTITUCIONALES - METODOLOGÍA COLPROBA
+   ============================================================ */
+
+:root {
+    --colproba-blue: #145c77;        /* El azul exacto del logo de Colproba */
+    --colproba-gold: #c5a059;        /* Dorado para acentos y bordes */
+    --colproba-dark: #1e1e1e;        /* Gris oscuro para textos principales */
+    --colproba-light: #f9f9f9;       /* Fondo de secciones */
+    --fusion-border-color: #ebeaea;
+}
+
+/* 1. ESTRUCTURA GLOBAL (Basado en fusion-wrapper) */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: var(--colproba-dark);
+    line-height: 1.6;
+}
+
+/* 2. HEADER SECUNDARIO (La franja superior de contacto) */
+.secondary-header {
+    background-color: var(--colproba-blue);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding: 10px 0;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.secondary-header a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.secondary-header a:hover {
+    color: var(--colproba-gold);
+}
+
+/* 3. HEADER PRINCIPAL Y NAVEGACIÓN (fusion-header) */
+.main-header {
+    background: #ffffff;
+    padding: 20px 0;
+    border-bottom: 3px solid var(--colproba-gold); /* El detalle de línea de Colproba */
+}
+
+.nav-link-custom {
+    color: var(--colproba-blue) !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 10px 15px !important;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+/* Efecto de resaltado al pasar el mouse (fusion-bottombar-highlight) */
+.nav-link-custom::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 15px;
+    background-color: var(--colproba-gold);
+    transition: width 0.3s;
+}
+
+.nav-link-custom:hover::after {
+    width: calc(100% - 30px);
+}
+
+/* 4. SECCIONES DE CONTENIDO (fusion-section-column) */
+.section-padding {
+    padding: 80px 0;
+}
+
+.section-light {
+    background-color: var(--colproba-light);
+}
+
+/* 5. TARJETAS DE ACCESO RÁPIDO (Como los cuadros de Colproba) */
+.quick-access-card {
+    background: #ffffff;
+    border: 1px solid var(--fusion-border-color);
+    padding: 40px 25px;
+    text-align: center;
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.quick-access-card:hover {
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+    border-top: 3px solid var(--colproba-blue);
+}
+
+.quick-access-card i {
+    color: var(--colproba-blue);
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.quick-access-card h3 {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--colproba-blue);
+    text-transform: uppercase;
+}
+
+/* 6. BOTONES INSTITUCIONALES */
+.btn-colproba {
+    background-color: var(--colproba-blue);
+    color: #ffffff;
+    border-radius: 0; /* Colproba usa bordes rectos para seriedad */
+    padding: 12px 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 2px solid var(--colproba-blue);
+    transition: 0.3s;
+}
+
+.btn-colproba:hover {
+    background-color: transparent;
+    color: var(--colproba-blue);
+}
+
+/* 7. FOOTER (fusion-footer) */
+.main-footer {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    padding: 60px 0 30px;
+}
