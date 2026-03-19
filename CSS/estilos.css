@@ -215,3 +215,66 @@ h1, h2, h3, h4, h5, h6 {
         right: 20px;
     }
 }
+/* =========================================
+   EFECTO FLIP CARD 3D (Giro de Tarjetas)
+   ========================================= */
+
+/* Contenedor principal de la tarjeta */
+.flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 350px; /* Altura fija para que todas sean iguales */
+    perspective: 1000px; /* Crea el efecto de profundidad 3D */
+    margin-bottom: 30px;
+}
+
+/* El contenedor interno que realmente gira */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+/* Al pasar el mouse (hover), la tarjeta gira 180 grados */
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/* Posicionamiento de las caras frontal y trasera */
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Oculta la espalda cuando vemos el frente */
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+/* CARA FRONTAL (Estilo institucional) */
+.flip-card-front {
+    background-color: #FFFFFF;
+    color: var(--color-primario);
+    border-top: 5px solid var(--color-gold);
+}
+
+/* CARA TRASERA (Colores dinámicos al girar) */
+.flip-card-back {
+    background-color: var(--color-primario);
+    color: white;
+    transform: rotateY(180deg); /* Ya está girada para que aparezca al rotar */
+}
+
+/* Sombras dinámicas al pasar el cursor */
+.flip-card:hover .flip-card-inner {
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+}
