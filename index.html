@@ -13,42 +13,39 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     
-    <style>
-        :root { --azul: #0B192C; --dorado: #C5A059; }
-        body { font-family: 'Roboto', sans-serif; margin: 0; padding: 0; }
-        .top-bar { background: var(--azul); color: white; padding: 8px 0; font-size: 13px; }
-        .navbar { background: white; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        .hero { 
-            background: linear-gradient(rgba(11,25,44,0.8), rgba(11,25,44,0.8)), url('https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=2000');
-            height: 70vh; background-size: cover; display: flex; align-items: center; color: white;
-        }
-        .btn-gold { background: var(--dorado); color: white; border: none; padding: 12px 25px; font-weight: bold; }
-        .card-servicio { background: white; padding: 30px; border-radius: 5px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); border-top: 4px solid var(--dorado); height: 100%; transition: 0.3s; }
-        .card-servicio:hover { transform: translateY(-5px); }
-        .icon { font-size: 40px; color: var(--azul); margin-bottom: 20px; }
-    </style>
+    <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5T92VD5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
     <div class="top-bar d-none d-md-block">
-        <div class="container d-flex justify-content-between">
-            <span><i class="fas fa-envelope me-2"></i> Dr.Zuritalionel@gmail.com</span>
-            <span><i class="fas fa-phone me-2"></i> 11 3772-2140</span>
+        <div class="container d-flex justify-content-between align-items-center">
+            <div>
+                <i class="fas fa-envelope me-2"></i> Dr.Zuritalionel@gmail.com
+                <span class="top-bar-separator">|</span>
+                <i class="fas fa-phone me-2"></i> 11 3772-2140
+            </div>
+            <div>
+                <i class="fas fa-map-marker-alt me-2"></i> San Isidro | Lomas de Zamora
+            </div>
         </div>
     </div>
 
-    <nav class="navbar navbar-expand-lg sticky-top">
+    <nav class="custom-navbar navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand fw-bold" style="color:var(--azul)" href="#">DR. LIONEL ZURITA</a>
+            <a class="navbar-brand" href="#">DR. LIONEL ZURITA</a>
             <div class="ms-auto">
-                <a href="https://wa.me/541131976852" class="btn btn-gold">CONSULTA WHATSAPP</a>
+                <a href="https://wa.me/541131976852" class="btn-gold btn">CONSULTA WHATSAPP</a>
             </div>
         </div>
     </nav>
 
-    <header class="hero">
-        <div class="container">
-            <h1 style="font-family:'Playfair Display'">Defensa Legal con <br><span style="color:var(--dorado)">Excelencia Técnica</span></h1>
-            <p class="lead">Abogado y Perito Accidentólogo Vial.</p>
+    <header class="hero-wrap">
+        <div class="overlay"></div>
+        <div class="container text-center text-md-start">
+            <span class="subheading">Excelencia Jurídica</span>
+            <h1 class="display-3 fw-bold">Defensa Legal con <br><span class="text-gold">Excelencia Técnica</span></h1>
+            <p class="lead text-white-50">Abogado y Perito Accidentólogo Vial.</p>
         </div>
     </header>
 
@@ -56,29 +53,36 @@
         <div class="container">
             <div class="row g-4">
                 <div class="col-md-4">
-                    <div class="card-servicio">
-                        <div class="icon"><i class="fas fa-car-crash"></i></div>
-                        <h4>Accidentología</h4>
-                        <p>Reclamos por siniestros viales con análisis pericial propio.</p>
+                    <div class="practice-card">
+                        <div class="practice-icon"><i class="fas fa-car-crash"></i></div>
+                        <h3>Accidentología</h3>
+                        <div class="divider"></div>
+                        <p>Reclamos por siniestros viales con análisis pericial propio y rigor técnico.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card-servicio">
-                        <div class="icon"><i class="fas fa-users"></i></div>
-                        <h4>Familia</h4>
-                        <p>Divorcios, alimentos y responsabilidad parental.</p>
+                    <div class="practice-card featured">
+                        <div class="practice-icon"><i class="fas fa-users"></i></div>
+                        <h3>Familia</h3>
+                        <div class="divider"></div>
+                        <p>Divorcios, alimentos, sucesiones y responsabilidad parental con enfoque humano.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card-servicio">
-                        <div class="icon"><i class="fas fa-gavel"></i></div>
-                        <h4>Laboral</h4>
-                        <p>Despidos, ART y accidentes de trabajo.</p>
+                    <div class="practice-card">
+                        <div class="practice-icon"><i class="fas fa-gavel"></i></div>
+                        <h3>Laboral</h3>
+                        <div class="divider"></div>
+                        <p>Despidos, ART, accidentes de trabajo y defensa de derechos del trabajador.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <a href="https://wa.me/541131976852" class="whatsapp-float" target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
