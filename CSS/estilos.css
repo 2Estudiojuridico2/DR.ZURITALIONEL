@@ -42,18 +42,14 @@ h1, h2, h3, h4, h5, h6 {
     color: rgba(255, 255, 255, 0.8);
     font-size: 0.85rem;
     padding: 8px 0;
-    position: relative;
-    z-index: 1030;
+    /* Quitamos position y z-index de aquí */
 }
 
 .custom-navbar {
     background-color: #FFFFFF !important;
     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     padding: 12px 0;
-    position: sticky !important; 
-    top: 0;
-    z-index: 1020;
-    transition: all 0.3s ease;
+    /* Quitamos position: sticky y top: 0 */
 }
 
 .custom-navbar .navbar-brand {
